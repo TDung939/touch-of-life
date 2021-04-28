@@ -3,4 +3,4 @@ An interactive art display that comes to life when you touch the pot, generating
 
 ![](https://media.giphy.com/media/obSJS2VNskmoQhtlFU/giphy.gif)
 
-##How
+## How

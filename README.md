@@ -28,6 +28,7 @@ An interactive art display that comes to life when you touch the pot, generating
 myPort  =  new Serial (this, "/dev/cu.usbmodem142101",  9600);
 ```
 7. Press play to launch the program
+8. You can put some dirt or sand inside the pot to hide the wire. Remember to cover the sensor with heat shrink or something.
 
 ## Future update
 Connecting the Arduino straight to the computer can cause a lot of noise for the Touch Sensor, causing the video to play automatically. It is better to use a Bluetooth Module HC-05 to communicate with the Processing program to reduce noise and improve accuracy.

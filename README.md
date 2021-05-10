@@ -9,6 +9,7 @@ An interactive art display that comes to life when you touch the pot, generating
 * Capacitive Touch Sensor
 * A long wire
 * A pot (preferably white)
+* A projector
 
 ### Software:
 * [ArduinoIDE](https://www.arduino.cc/en/software)
